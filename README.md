@@ -33,3 +33,6 @@ This repository contains the backend for the Reading Plan application. The backe
 #### MongoDB: Database for storing book data.
 #### Axios: HTTP client for making API requests from the frontend.
    
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
